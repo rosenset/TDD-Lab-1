@@ -1,0 +1,22 @@
+{
+  "name": "Lab_1_TDD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-core": "^3.5.0",
+    "karma-spec-reporter": "0.0.32"
+  },
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "karma": "^5.0.9",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^3.3.1"
+  }
+}
